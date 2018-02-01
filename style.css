@@ -1,0 +1,45 @@
+body {
+background-color: RGB(0, 0, 0);
+}
+hh1 {
+font-family: Arial;
+font-style: italic;
+font-variant: small-caps;
+font-size: 85pt;
+font-weight: 700;
+}
+p1 {
+font-family: Consolas;
+font-variant: normal;
+font-weight: 100;
+font-stretch: ultra-condensed;
+font-size: small;
+color: white;
+}
+section.module.parallax {
+  
+height: 600px;
+  
+background-position: 50% 50%;
+  
+background-repeat: no-repeat;
+  
+background-attachment: fixed;
+  
+background-size: cover;
+
+}
+section.module.parallax-1 { 
+background-image: url("DYxU3UfnJEY.jpg");
+} 
+section.module.parallax-2 { 
+background-image: url("5bI90Pw8wa0.jpg");
+} 
+section.module.parallax-3 { 
+background-image: url("ADZJi2dPsHA.jpg");
+}
+.centering {
+  padding: 10em 0;
+  text-align: center; 
+}
+
