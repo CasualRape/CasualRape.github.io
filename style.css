@@ -1,3 +1,7 @@
+::selection {color:#fff; background:#2BAECA;}
+::-moz-selection {color:#fff; background:#2BAECA;}
+::-webkit-selection {color:#fff; background:#2BAECA;}
+
 body {
 background-color: RGB(0, 0, 0);
 }
@@ -42,8 +46,4 @@ background-image: url("ADZJi2dPsHA.jpg");
   padding: 10em 0;
   text-align: center; 
 }
-
-::selection {background: #f54021;}
-::-moz-selection {background: #f54021;}
-::-webkit-selection {background: #f54021; color:#fff;}
 
