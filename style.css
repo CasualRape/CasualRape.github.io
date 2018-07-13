@@ -43,3 +43,7 @@ background-image: url("ADZJi2dPsHA.jpg");
   text-align: center; 
 }
 
+::selection {background: #f54021;}
+::-moz-selection {background: #f54021;}
+::-webkit-selection {background: #f54021; color:#fff;}
+
